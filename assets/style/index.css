@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.title {
+    text-align: center;
+    font-size: 40px;
+}
+
+.image {
+    width: 30%;
+    height: 30%;
+    display: flex;
+    margin: auto;
+    border-radius: 40px;
+
+    
+.datos {
+    text-align: center;
+
+}
